@@ -1,0 +1,4 @@
+main: A config
+  someConfig:
+    port: 72
+  demo: testing

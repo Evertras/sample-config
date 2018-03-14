@@ -1,0 +1,10 @@
+{
+  "thing": "stuff",
+  "woo": {
+    "objects": true,
+    "booleans": "yep",
+    "integers": [ 0, 3, "eight" ],
+    "arrays": 7,
+    "another": "I was updated!"
+  }
+}
